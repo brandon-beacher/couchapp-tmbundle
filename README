@@ -1,0 +1,7 @@
+So, have you worn out your wrists yet switching between TextMate and Terminal to run this?
+
+    couchapp push
+
+The CouchApp bundle looks for a .couchapprc file in the top-level folder of your project drawer. If it finds one, it pushes your couchapp every time you save a file.
+
+Time to relax...
